@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/2025PC/OneDrive/Documentos/Unreal Projects/MyProject2/Content/TopDown/Lvl_TopDown.umap",
+				"C:/Users/2025PC/OneDrive/Documentos/Unreal Projects/MyProject2/Content/Characters/Mannequins/Rigs/CR_Mannequin_Body.uasset",
+				"C:/Users/2025PC/OneDrive/Documentos/Unreal Projects/MyProject2/Content/__ExternalActors__/TopDown/Lvl_TopDown/2/33/SKUR0WWL7JT7C3OXZMWAQS.uasset",
+				"C:/Users/2025PC/OneDrive/Documentos/Unreal Projects/MyProject2/Content/Blueprints/coin_blueprint/BPI_Item.uasset",
+				"C:/Users/2025PC/OneDrive/Documentos/Unreal Projects/MyProject2/Content/Blueprints/coin_blueprint/bp_Item.uasset",
+				"C:/Users/2025PC/OneDrive/Documentos/Unreal Projects/MyProject2/Content/__ExternalActors__/TopDown/Lvl_TopDown/A/8N/6BOCU0ZFO198WK8HV69T4F.uasset",
+				"C:/Users/2025PC/OneDrive/Documentos/Unreal Projects/MyProject2/Content/__ExternalActors__/TopDown/Lvl_TopDown/4/A9/169XM2S1Z8Y5ENGBESPEMU.uasset",
+				"C:/Users/2025PC/OneDrive/Documentos/Unreal Projects/MyProject2/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset",
+				"C:/Users/2025PC/OneDrive/Documentos/Unreal Projects/MyProject2/Content/Blueprints/Snake_coin_actor.uasset",
+				"C:/Users/2025PC/OneDrive/Documentos/Unreal Projects/MyProject2/Content/Blueprints/coin_blueprint/Snake_coin_actor.uasset",
+				"C:/Users/2025PC/OneDrive/Documentos/Unreal Projects/MyProject2/Content/Blueprints/coin_blueprint/Pickup.uasset"
+			]
+		}
+	]
+}
